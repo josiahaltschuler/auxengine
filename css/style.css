@@ -439,6 +439,10 @@ h1.site-title a:hover, h1.site-title a:focus, h1.site-title a:active {
 	color: #ff4f24;
 }
 
+h2 {
+	font-family: "Montserrat", sans-serif;
+}
+
 h2.site-description {
 	margin: 0;
 	float: left;
